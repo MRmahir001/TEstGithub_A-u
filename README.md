@@ -1,2 +1,2 @@
-# FRist Step
-This is my frist repository....
+# MAHIR
+MY 1ST REPO
